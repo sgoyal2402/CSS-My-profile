@@ -194,7 +194,10 @@ a{
     .side{
         margin-bottom: 3rem;
         width: 100%;
+        max-height: 15rem;
+        max-width: 15rem;
     }
+
 
     .hr{
         margin-left: auto;
